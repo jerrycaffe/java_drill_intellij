@@ -1,0 +1,13 @@
+type: edu
+files:
+  - name: src/Task.java
+    visible: true
+  - name: test/Tests.java
+    visible: false
+    propagatable: false
+  - name: test/lesson1/task1/test/Tests.java
+    visible: false
+    propagatable: false
+  - name: test/lesson1/task1/src/Task.java
+    visible: false
+    propagatable: false

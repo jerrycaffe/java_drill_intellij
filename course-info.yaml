@@ -1,0 +1,11 @@
+type: marketplace
+title: Java_Drill
+language: English
+summary: "This is the perfect course for anyone, either a beginner or advanced level\
+  \ who want to refresh java knowledge"
+programming_language: Java
+content:
+  - Strings
+  - lesson2
+environment_settings:
+  jvm_language_level: JDK_1_8
